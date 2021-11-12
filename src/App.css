@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Header{
+  background-color: lightblue;
+  text-align: center;
+  padding: 10px;
+}
+.NavBar{
+  background-color: lightblue;
+  text-align: center;
+}
+.section-right{
+ 
+  
+}
+.section-left{
+}
